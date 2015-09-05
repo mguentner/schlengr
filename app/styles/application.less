@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+html, body, #container {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  padding-top: 50px;
+}
+
+#mapwrapper {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  padding-left: 0;
+}
+
+#map {
+  width: auto;
+  height: 100%;
+}
+
+.navbar-brand-img {
+  .navbar-brand;
+  padding: 1px 10px 1px 15px;
+}
+
+.navbar-brand {
+  font-family: @font-family-schlengr;
+  font-size: ceil((@font-size-base*2)); // ~30px
+}
+
+.nav {
+  font-family: @font-family-schlengr;
+  font-size: ceil((@font-size-base*1.7)); // ~24px
+}
+
+.marker-image img {
+  width: 250px;
+}

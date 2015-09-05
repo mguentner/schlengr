@@ -1,0 +1,11 @@
+{
+  "schlengrs" : [
+    {
+      "name": "Trondheim/Bymarka",
+      "description": "Am Liftpfosten.",
+      "img": "/images/trondheim_1.jpg",
+      "lat": 63.42011,
+      "lon": 10.25232
+    }
+  ]
+}

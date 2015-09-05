@@ -1,0 +1,24 @@
+{
+  "name": "schlengr",
+  "description": "Find a schlenger near you - using angularjs!",
+  "author": "Maximilian Güntner",
+  "version": "0.0.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch --server",
+    "test": "brunch test"
+  },
+  "dependencies": {
+    "auto-reload-brunch": ">= 1.0 < 1.8",
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "constangular-brunch": "^0.1.4",
+    "css-brunch": ">= 1.0 < 1.8",
+    "less-brunch": "latest",
+    "javascript-brunch": ">= 1.0 < 1.8",
+    "uglify-js-brunch": ">= 1.0 < 1.8"
+  }
+}
