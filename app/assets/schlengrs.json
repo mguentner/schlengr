@@ -6,6 +6,13 @@
       "img": "/images/trondheim_1.jpg",
       "lat": 63.42011,
       "lon": 10.25232
+    },
+    {
+      "name": "Nürnberg/Innenstadt",
+      "description": "Am Laternenpfosten Lorenzer Platz bei Vapiao.",
+      "img": "/images/schlengr_de_nbg_1.jpg",
+      "lat": 49.451265,
+      "lon": 11.078171
     }
   ]
 }
